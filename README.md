@@ -4,9 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=ABDBE3&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Fatih+Syamsudin!" alt="Typing SVG" />
 </p>
 
-## 📌 About Me 
-🤵 Fatih Syamsudin </br>
-🏫 Study In Universitas Amikom Purwokerto
+### 📌 About Me 
+- 📝 **My Bio**:  
+  🤵 Fatih Syamsudin.
+  🎂 Born at 2003 (Now 22 years old).
+  🏫 Study In Universitas Amikom Purwokerto.
+  💬 _"If you can't be a source of happiness for others, at least don't be a source of sadness for others"_.
+  
 
 
 <p align="center">
