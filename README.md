@@ -6,10 +6,13 @@
 
 ### 📌 About Me 
 - 📝 **My Bio**:  
-  🤵 Fatih Syamsudin. <br/>
-  🎂 Born at 2003 (Now 22 years old). <br/>
-  🏫 Study In Universitas Amikom Purwokerto. <br/>
-  💬 _"If you can't be a source of happiness for others, at least don't be a source of sadness for others"_. <br/>
+    🤵 Fatih Syamsudin. <br/>
+    🎂 Born at 2003 (Now 22 years old). <br/>
+    🏫 Study In Universitas Amikom Purwokerto. <br/>
+    💬 _"If you can't be a source of happiness for others, at least don't be a source of sadness for others"_. <br/>
+
+- 📝 **Skills**:
+    [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=React%20:atom:&width=800&height=400)](https://github.com/Akshay090/svg-banners)
   
 
 
