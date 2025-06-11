@@ -6,10 +6,10 @@
 
 ### 📌 About Me 
 - 📝 **My Bio**:  
-  🤵 Fatih Syamsudin.
-  🎂 Born at 2003 (Now 22 years old).
-  🏫 Study In Universitas Amikom Purwokerto.
-  💬 _"If you can't be a source of happiness for others, at least don't be a source of sadness for others"_.
+  🤵 Fatih Syamsudin. <br/>
+  🎂 Born at 2003 (Now 22 years old). <br/>
+  🏫 Study In Universitas Amikom Purwokerto. <br/>
+  💬 _"If you can't be a source of happiness for others, at least don't be a source of sadness for others"_. <br/>
   
 
 
